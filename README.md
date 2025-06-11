@@ -1,1 +1,1 @@
-projeto_agrinho
+projeto-agrinho
